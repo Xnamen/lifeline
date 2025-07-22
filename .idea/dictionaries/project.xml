@@ -2,6 +2,7 @@
   <dictionary name="project">
     <words>
       <w>tseslint</w>
+      <w>vitejs</w>
     </words>
   </dictionary>
 </component>
